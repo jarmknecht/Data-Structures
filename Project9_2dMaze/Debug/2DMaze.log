@@ -1,0 +1,4 @@
+﻿  MySolver.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  2DMaze.vcxproj -> C:\Users\Jill\Desktop\Jonathan's Stuff\Project9_CS235\Debug\2DMaze.exe
+  2DMaze.vcxproj -> C:\Users\Jill\Desktop\Jonathan's Stuff\Project9_CS235\Debug\2DMaze.pdb (Full PDB)
